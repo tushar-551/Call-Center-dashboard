@@ -38,6 +38,12 @@ The Power BI dashboard includes the following visualizations and KPIs:
 
 8. **Filters and Slicers**: Interactive elements like filters and slicers to allow users to explore the data further and gain deeper insights.
 
+## Dashboard Highlights
+
+Here are some highlights of the Power BI dashboard visualizations:
+![image](https://github.com/tushar11720/Call-Center-dashboard/assets/132842128/191afebc-5ec5-4a1d-97b5-51fc67e75a6d)
+
+
 ## Usage
 
 To view and interact with the Power BI dashboard, you'll need to have Power BI Desktop installed on your machine. You can find the Power BI Desktop file (`Call enter trends.pbix`) in the `power-bi-files` folder of this repository.
